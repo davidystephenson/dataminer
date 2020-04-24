@@ -1,0 +1,17 @@
+{
+  "david": {
+    "website": "google.com",
+    "hours": 12,
+    "job": "teacher"
+  },
+  "rein": {
+    "website": "codaisseur.com",
+    "hours": 6,
+    "job": "teacher"
+  },
+  "lisa": {
+    "website": "nos.nl",
+    "hours": 8,
+    "job": "admissions"
+  }
+}
